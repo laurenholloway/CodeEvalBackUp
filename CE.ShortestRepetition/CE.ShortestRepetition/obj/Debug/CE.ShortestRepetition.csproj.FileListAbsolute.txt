@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ShortestRepetition\CE.ShortestRepetition\bin\Debug\CE.ShortestRepetition.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ShortestRepetition\CE.ShortestRepetition\bin\Debug\CE.ShortestRepetition.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ShortestRepetition\CE.ShortestRepetition\bin\Debug\CE.ShortestRepetition.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ShortestRepetition\CE.ShortestRepetition\obj\Debug\CE.ShortestRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ShortestRepetition\CE.ShortestRepetition\obj\Debug\CE.ShortestRepetition.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ShortestRepetition\CE.ShortestRepetition\obj\Debug\CE.ShortestRepetition.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.HappyNumbers\CE.HappyNumbers\bin\Debug\CE.HappyNumbers.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.HappyNumbers\CE.HappyNumbers\bin\Debug\CE.HappyNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.HappyNumbers\CE.HappyNumbers\bin\Debug\CE.HappyNumbers.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.HappyNumbers\CE.HappyNumbers\obj\Debug\CE.HappyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.HappyNumbers\CE.HappyNumbers\obj\Debug\CE.HappyNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.HappyNumbers\CE.HappyNumbers\obj\Debug\CE.HappyNumbers.pdb

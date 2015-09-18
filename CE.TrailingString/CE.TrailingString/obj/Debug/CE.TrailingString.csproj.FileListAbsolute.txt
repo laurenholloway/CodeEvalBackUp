@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.TrailingString\CE.TrailingString\bin\Debug\CE.TrailingString.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.TrailingString\CE.TrailingString\bin\Debug\CE.TrailingString.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.TrailingString\CE.TrailingString\bin\Debug\CE.TrailingString.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.TrailingString\CE.TrailingString\obj\Debug\CE.TrailingString.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.TrailingString\CE.TrailingString\obj\Debug\CE.TrailingString.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.TrailingString\CE.TrailingString\obj\Debug\CE.TrailingString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReadMore\CE.ReadMore\bin\Debug\CE.ReadMore.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReadMore\CE.ReadMore\bin\Debug\CE.ReadMore.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReadMore\CE.ReadMore\bin\Debug\CE.ReadMore.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReadMore\CE.ReadMore\obj\Debug\CE.ReadMore.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReadMore\CE.ReadMore\obj\Debug\CE.ReadMore.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReadMore\CE.ReadMore\obj\Debug\CE.ReadMore.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.PenUltimateWord\CE.PenUltimateWord\bin\Debug\CE.PenUltimateWord.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.PenUltimateWord\CE.PenUltimateWord\bin\Debug\CE.PenUltimateWord.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.PenUltimateWord\CE.PenUltimateWord\bin\Debug\CE.PenUltimateWord.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.PenUltimateWord\CE.PenUltimateWord\obj\Debug\CE.PenUltimateWord.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.PenUltimateWord\CE.PenUltimateWord\obj\Debug\CE.PenUltimateWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.CapitalizeWords\CE.CapitalizeWords\bin\Debug\CE.CapitalizeWords.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.CapitalizeWords\CE.CapitalizeWords\bin\Debug\CE.CapitalizeWords.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.CapitalizeWords\CE.CapitalizeWords\bin\Debug\CE.CapitalizeWords.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.CapitalizeWords\CE.CapitalizeWords\obj\Debug\CE.CapitalizeWords.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.CapitalizeWords\CE.CapitalizeWords\obj\Debug\CE.CapitalizeWords.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.CapitalizeWords\CE.CapitalizeWords\obj\Debug\CE.CapitalizeWords.pdb

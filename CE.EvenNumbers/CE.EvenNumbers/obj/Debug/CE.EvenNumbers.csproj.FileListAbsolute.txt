@@ -1,0 +1,5 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EvenNumbers\CE.EvenNumbers\bin\Debug\CE.EvenNumbers.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EvenNumbers\CE.EvenNumbers\bin\Debug\CE.EvenNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EvenNumbers\CE.EvenNumbers\bin\Debug\CE.EvenNumbers.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EvenNumbers\CE.EvenNumbers\obj\Debug\CE.EvenNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EvenNumbers\CE.EvenNumbers\obj\Debug\CE.EvenNumbers.pdb

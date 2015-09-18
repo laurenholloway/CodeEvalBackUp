@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LowestUniqueNumber\CE.LowestUniqueNumber\bin\Debug\CE.LowestUniqueNumber.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LowestUniqueNumber\CE.LowestUniqueNumber\bin\Debug\CE.LowestUniqueNumber.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LowestUniqueNumber\CE.LowestUniqueNumber\bin\Debug\CE.LowestUniqueNumber.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LowestUniqueNumber\CE.LowestUniqueNumber\obj\Debug\CE.LowestUniqueNumber.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LowestUniqueNumber\CE.LowestUniqueNumber\obj\Debug\CE.LowestUniqueNumber.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LowestUniqueNumber\CE.LowestUniqueNumber\obj\Debug\CE.LowestUniqueNumber.pdb

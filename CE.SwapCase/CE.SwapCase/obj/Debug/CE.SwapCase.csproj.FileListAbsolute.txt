@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapCase\CE.SwapCase\bin\Debug\CE.SwapCase.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapCase\CE.SwapCase\bin\Debug\CE.SwapCase.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapCase\CE.SwapCase\bin\Debug\CE.SwapCase.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapCase\CE.SwapCase\obj\Debug\CE.SwapCase.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapCase\CE.SwapCase\obj\Debug\CE.SwapCase.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapCase\CE.SwapCase\obj\Debug\CE.SwapCase.pdb

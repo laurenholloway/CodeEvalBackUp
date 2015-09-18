@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.WithoutRepititions\CE.WithoutRepititions\bin\Debug\CE.WithoutRepititions.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.WithoutRepititions\CE.WithoutRepititions\bin\Debug\CE.WithoutRepititions.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.WithoutRepititions\CE.WithoutRepititions\bin\Debug\CE.WithoutRepititions.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.WithoutRepititions\CE.WithoutRepititions\obj\Debug\CE.WithoutRepititions.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.WithoutRepititions\CE.WithoutRepititions\obj\Debug\CE.WithoutRepititions.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.WithoutRepititions\CE.WithoutRepititions\obj\Debug\CE.WithoutRepititions.csprojResolveAssemblyReference.cache

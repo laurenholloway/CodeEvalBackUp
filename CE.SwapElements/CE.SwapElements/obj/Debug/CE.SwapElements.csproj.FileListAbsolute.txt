@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapElements\CE.SwapElements\bin\Debug\CE.SwapElements.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapElements\CE.SwapElements\bin\Debug\CE.SwapElements.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapElements\CE.SwapElements\bin\Debug\CE.SwapElements.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapElements\CE.SwapElements\obj\Debug\CE.SwapElements.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapElements\CE.SwapElements\obj\Debug\CE.SwapElements.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapElements\CE.SwapElements\obj\Debug\CE.SwapElements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RemoveCharacters\CE.RemoveCharacters\bin\Debug\CE.RemoveCharacters.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RemoveCharacters\CE.RemoveCharacters\bin\Debug\CE.RemoveCharacters.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RemoveCharacters\CE.RemoveCharacters\bin\Debug\CE.RemoveCharacters.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RemoveCharacters\CE.RemoveCharacters\obj\Debug\CE.RemoveCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RemoveCharacters\CE.RemoveCharacters\obj\Debug\CE.RemoveCharacters.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RemoveCharacters\CE.RemoveCharacters\obj\Debug\CE.RemoveCharacters.pdb

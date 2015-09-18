@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RightmostChar\CE.RightmostChar\bin\Debug\CE.RightmostChar.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RightmostChar\CE.RightmostChar\bin\Debug\CE.RightmostChar.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RightmostChar\CE.RightmostChar\bin\Debug\CE.RightmostChar.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RightmostChar\CE.RightmostChar\obj\Debug\CE.RightmostChar.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RightmostChar\CE.RightmostChar\obj\Debug\CE.RightmostChar.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.RightmostChar\CE.RightmostChar\obj\Debug\CE.RightmostChar.pdb

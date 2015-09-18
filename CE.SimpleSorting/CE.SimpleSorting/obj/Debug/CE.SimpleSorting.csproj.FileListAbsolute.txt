@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SimpleSorting\CE.SimpleSorting\bin\Debug\CE.SimpleSorting.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SimpleSorting\CE.SimpleSorting\bin\Debug\CE.SimpleSorting.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SimpleSorting\CE.SimpleSorting\bin\Debug\CE.SimpleSorting.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SimpleSorting\CE.SimpleSorting\obj\Debug\CE.SimpleSorting.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SimpleSorting\CE.SimpleSorting\obj\Debug\CE.SimpleSorting.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SimpleSorting\CE.SimpleSorting\obj\Debug\CE.SimpleSorting.pdb

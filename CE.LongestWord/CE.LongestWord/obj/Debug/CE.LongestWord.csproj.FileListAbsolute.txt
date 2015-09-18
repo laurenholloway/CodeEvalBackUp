@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LongestWord\CE.LongestWord\bin\Debug\CE.LongestWord.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LongestWord\CE.LongestWord\bin\Debug\CE.LongestWord.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LongestWord\CE.LongestWord\bin\Debug\CE.LongestWord.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LongestWord\CE.LongestWord\obj\Debug\CE.LongestWord.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LongestWord\CE.LongestWord\obj\Debug\CE.LongestWord.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.LongestWord\CE.LongestWord\obj\Debug\CE.LongestWord.pdb

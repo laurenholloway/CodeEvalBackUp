@@ -1,0 +1,5 @@
+c:\users\lauren\documents\visual studio 2015\Projects\CE.SumOfDigits\CE.SumOfDigits\bin\Debug\CE.SumOfDigits.exe.config
+c:\users\lauren\documents\visual studio 2015\Projects\CE.SumOfDigits\CE.SumOfDigits\bin\Debug\CE.SumOfDigits.exe
+c:\users\lauren\documents\visual studio 2015\Projects\CE.SumOfDigits\CE.SumOfDigits\bin\Debug\CE.SumOfDigits.pdb
+c:\users\lauren\documents\visual studio 2015\Projects\CE.SumOfDigits\CE.SumOfDigits\obj\Debug\CE.SumOfDigits.exe
+c:\users\lauren\documents\visual studio 2015\Projects\CE.SumOfDigits\CE.SumOfDigits\obj\Debug\CE.SumOfDigits.pdb

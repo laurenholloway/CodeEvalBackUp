@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EmailValidation\CE.EmailValidation\bin\Debug\CE.EmailValidation.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EmailValidation\CE.EmailValidation\bin\Debug\CE.EmailValidation.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EmailValidation\CE.EmailValidation\bin\Debug\CE.EmailValidation.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EmailValidation\CE.EmailValidation\obj\Debug\CE.EmailValidation.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EmailValidation\CE.EmailValidation\obj\Debug\CE.EmailValidation.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.EmailValidation\CE.EmailValidation\obj\Debug\CE.EmailValidation.pdb

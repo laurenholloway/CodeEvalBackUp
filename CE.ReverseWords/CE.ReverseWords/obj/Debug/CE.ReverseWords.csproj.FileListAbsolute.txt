@@ -1,0 +1,6 @@
+c:\users\lauren\documents\visual studio 2015\Projects\CE.ReverseWords\CE.ReverseWords\bin\Debug\CE.ReverseWords.exe.config
+c:\users\lauren\documents\visual studio 2015\Projects\CE.ReverseWords\CE.ReverseWords\bin\Debug\CE.ReverseWords.exe
+c:\users\lauren\documents\visual studio 2015\Projects\CE.ReverseWords\CE.ReverseWords\bin\Debug\CE.ReverseWords.pdb
+c:\users\lauren\documents\visual studio 2015\Projects\CE.ReverseWords\CE.ReverseWords\obj\Debug\CE.ReverseWords.exe
+c:\users\lauren\documents\visual studio 2015\Projects\CE.ReverseWords\CE.ReverseWords\obj\Debug\CE.ReverseWords.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ReverseWords\CE.ReverseWords\obj\Debug\CE.ReverseWords.csprojResolveAssemblyReference.cache

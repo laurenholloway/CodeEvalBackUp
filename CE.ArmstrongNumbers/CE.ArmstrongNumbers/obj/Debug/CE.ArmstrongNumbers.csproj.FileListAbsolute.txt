@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ArmstrongNumbers\CE.ArmstrongNumbers\bin\Debug\CE.ArmstrongNumbers.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ArmstrongNumbers\CE.ArmstrongNumbers\bin\Debug\CE.ArmstrongNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ArmstrongNumbers\CE.ArmstrongNumbers\bin\Debug\CE.ArmstrongNumbers.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ArmstrongNumbers\CE.ArmstrongNumbers\obj\Debug\CE.ArmstrongNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ArmstrongNumbers\CE.ArmstrongNumbers\obj\Debug\CE.ArmstrongNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.ArmstrongNumbers\CE.ArmstrongNumbers\obj\Debug\CE.ArmstrongNumbers.pdb

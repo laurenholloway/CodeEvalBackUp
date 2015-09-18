@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.BitPosition\CE.BitPosition\bin\Debug\CE.BitPosition.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.BitPosition\CE.BitPosition\bin\Debug\CE.BitPosition.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.BitPosition\CE.BitPosition\bin\Debug\CE.BitPosition.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.BitPosition\CE.BitPosition\obj\Debug\CE.BitPosition.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.BitPosition\CE.BitPosition\obj\Debug\CE.BitPosition.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.BitPosition\CE.BitPosition\obj\Debug\CE.BitPosition.pdb

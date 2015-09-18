@@ -1,0 +1,6 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapNumbers\CE.SwapNumbers\bin\Debug\CE.SwapNumbers.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapNumbers\CE.SwapNumbers\bin\Debug\CE.SwapNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapNumbers\CE.SwapNumbers\bin\Debug\CE.SwapNumbers.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapNumbers\CE.SwapNumbers\obj\Debug\CE.SwapNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapNumbers\CE.SwapNumbers\obj\Debug\CE.SwapNumbers.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\CE.SwapNumbers\CE.SwapNumbers\obj\Debug\CE.SwapNumbers.pdb
